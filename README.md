@@ -1,2 +1,2 @@
-# TRABALHO_INTERDISCIPLINAR_Ci-ncia_da_Computa-o
+# TRABALHO_INTERDISCIPLINAR_CC
 Nesta disciplina, temos como objetivo conduzir vocês pelo processo iterativo e incremental de desenvolvimento de uma aplicação completa a partir das técnicas e ferramentas de Web front end  e por meio do trabalho em equipe. Esta disciplina converge o que é visto em outras disciplinas do semestre, mas em especial, Algoritmos e Estruturas de Dados, Introdução à Computação, Desenvolvimento de Interfaces Web.
